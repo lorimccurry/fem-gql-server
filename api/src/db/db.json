@@ -1,0 +1,32 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "12345678",
+      "name": "champ",
+      "type": "dog"
+    },
+    {
+      "id": "2",
+      "createdAt": "12345678",
+      "name": "gabby",
+      "type": "cat"
+    },
+    {
+      "id": "3",
+      "createdAt": "12345678",
+      "name": "zeke",
+      "type": "cat"
+    },
+    {
+      "id": "2tsSKI3uWpXaOQhQP9pmS",
+      "createdAt": 1604273144324,
+      "name": "best pet ever",
+      "type": "doggo"
+    }
+  ]
+}
